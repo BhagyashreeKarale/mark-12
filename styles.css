@@ -11,7 +11,7 @@
 
 .container {
 	width: 90%;
-	margin-left: 920px;
+	margin-left: 900px;
 	/* margin: auto; */
     /* padding: auto; */
 	/* background-color: white; */
@@ -27,7 +27,7 @@
 }
 
 .quiz-container {
-	margin-left: 920px;
+	margin-left: 900px;
 	padding: 2rem;
 	border: 2px solid var(--primary-color);
 	border-radius: 0.5rem;
@@ -52,12 +52,12 @@
 	/* margin: auto;*/
     padding: auto; 
 	background-color: black;
-	margin-left: 920px;
+	margin-left: 900px;
 	/* margin-bottom: 10rem; */
 }
 
 h2{
-	margin-left: 920px;
+	margin-left: 900px;
 
 }
 
